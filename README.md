@@ -15,6 +15,6 @@
 </div>
 
 ### Happy Coding👨‍💻!
-<a href="https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/" target="_blank">
+<a href="https://www.linkedin.com/in/agnis-lukacovs-308004246/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
