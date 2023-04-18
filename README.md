@@ -14,5 +14,6 @@
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" height="50">
 </div>
 
+ [https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png](https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/)
 
 "Happy Coding👨‍💻!"
