@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**agnluk/agnluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Agnis!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🎓I'm currently studying in Codelex frontend developers group. 
+![Alt text](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.codelex.io/&size=35)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱I’m passionate about technologies and love to learn new things. 
+
+## 🛠 Skills
+JavaScript  C#  C++ 
+HTML GitHub  
+Visual Studio Code  Photoshop 
+
+"Happy Coding👨‍💻!"
