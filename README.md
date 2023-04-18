@@ -2,10 +2,10 @@
 # Hi 👋, I'm Agnis!
 
 ## 🚀 About Me
-🎓I'm currently studying in Codelex frontend developers group. 
-![image](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.codelex.io/&size=35)
+🌱I’m passionate Software Developer who loves to learn new things. 
+Self-motivated to write programs that pushes the boundaries of what i know and challenges my self to learn new skills and technologies.
 
-🌱I’m passionate about technologies and love to learn new things. 
+🎓I have experience with a broad range of technologies, including JavaScript/TypeScript, Csharp, HTML & CSS, SQL.
 
 ## 👨‍💻 Programming languages
 <div style="display: flex;">
