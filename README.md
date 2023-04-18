@@ -12,6 +12,6 @@ JavaScript  C#
 HTML GitHub  
 Visual Studio Code  Photoshop 
 
-[<img src="[https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white](https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/)">]
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/) 
 
 "Happy Coding👨‍💻!"
