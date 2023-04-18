@@ -8,9 +8,11 @@
 🌱I’m passionate about technologies and love to learn new things. 
 
 ## 🛠 Skills
-JavaScript  C# 
-HTML GitHub  
-Visual Studio Code  Photoshop 
+<i class="programming lang-javascript"></i>
+<i class="programming lang-csharp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-html"></i>
+<i class="programming lang-typescript"></i>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/) 
 
