@@ -15,7 +15,8 @@
 </div>
 
 <a href="https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 
-"Happy Coding👨‍💻!"
+
+# "Happy Coding👨‍💻!"
