@@ -6,6 +6,7 @@
 Self-motivated to write programs that pushes the boundaries of what i know and challenges my self to learn new skills and technologies.
 
 🎓I have experience with a broad range of technologies, including JavaScript/TypeScript, Csharp, HTML & CSS, SQL.
+My motto is always to strive for success and embrace new opportunities. I am never afraid of new challenges.
 
 ## 👨‍💻 Programming languages
 <div style="display: flex;">
