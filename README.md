@@ -8,7 +8,7 @@
 🌱I’m passionate about technologies and love to learn new things. 
 
 ## 🛠 Skills
-JavaScript  C#  C++ 
+JavaScript  C# 
 HTML GitHub  
 Visual Studio Code  Photoshop 
 
