@@ -14,6 +14,8 @@
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" height="50">
 </div>
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/)
+<a href="https://www.linkedin.com/in/agnis-luka%C4%8Dovs-308004246/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;">
+    </a>
 
 "Happy Coding👨‍💻!"
