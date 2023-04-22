@@ -13,7 +13,7 @@ My motto is always to strive for success and embrace new opportunities. I am nev
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" height="50" style="margin-right: 10px;">
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" height="50">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FwmhxJR_thumb-image-icon-html-css-png-transparent-png%2F&psig=AOvVaw2WAjJwPOB2xNX43iUVElqw&ust=1682239239638000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiJlNWLvf4CFQAAAAAdAAAAABAJ" height="50">
+    <img src="https://www.vhv.rs/dpng/d/127-1270973_thumb-image-icon-html-css-png-transparent-png.png" height="50">
 </div>
 
 ### Happy Coding👨‍💻!
