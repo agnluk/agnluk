@@ -10,7 +10,6 @@ My motto is always to strive for success and embrace new opportunities. I am nev
 
 ## 👨‍💻 Programming languages
 <div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" height="50" style="margin-right: 10px;">
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" height="50">
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50">
